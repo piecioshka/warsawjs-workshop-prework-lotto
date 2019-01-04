@@ -2,7 +2,7 @@
 
 :ledger: Aplikacja symulująca grę w lotto.
 
-## Demo :tada:
+## Demo 🎉
 
 Dostępne jest tutaj: <https://piecioshka.github.io/lotto/>
 
@@ -11,7 +11,7 @@ i stworzyć taką aplikację** :smile:
 
 ![](screenshots/demo.png)
 
-## Zadanie pt. "Lotto"
+## Opis zadania
 
 Zadanie polega na tym, aby:
 
