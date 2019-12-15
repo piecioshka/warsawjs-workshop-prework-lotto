@@ -1,10 +1,10 @@
-# lotto
+# workshop-javascript-prework-lotto
 
-:ledger: Aplikacja symulująca grę w lotto.
+💾 Workshop prework project — JavaScript (Podstawy programowania)
 
 ## Demo 🎉
 
-Dostępne jest tutaj: <https://piecioshka.github.io/lotto/>
+<https://piecioshka.github.io/workshop-javascript-prework-lotto/>
 
 **Pamiętaj, aby nie zaglądać do źródła, tylko samemu spróbować swoich sił
 i stworzyć taką aplikację** :smile:
