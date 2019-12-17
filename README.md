@@ -6,9 +6,6 @@
 
 <https://piecioshka.github.io/workshop-javascript-prework-lotto/>
 
-**Pamiętaj, aby nie zaglądać do źródła, tylko samemu spróbować swoich sił
-i stworzyć taką aplikację** :smile:
-
 ![](screenshots/demo.png)
 
 ## Opis zadania
@@ -21,14 +18,14 @@ Zadanie polega na tym, aby:
 
 ## Krok po kroku 👣
 
-* Stwórz katalog `lotto`.
+* Stwórz katalog `workshop-javascript-prework-lotto`.
 * Wewnątrz katalogu stwórz pliki `index.html` oraz `scripts/main.js`.
-* W pliku `scripts/main.js` zrób funkcję `setup`
-* Uruchom funkcję `setup` po załadowaniu DOMa (zdarzenie DOMContentLoaded)
+* W pliku `scripts/main.js` zrób funkcję `main`
+* Uruchom funkcję `main` po załadowaniu DOMa (zdarzenie DOMContentLoaded)
 * Stwórz funkcję `buildArrayWithRandomNumbers`
 * Przypisz wynik funkcji `buildArrayWithRandomNumbers` do zmiennej `numbers`
 * Stwórz funkcję `render`
-* Uruchom funkcję `render` w funkcji `setup` przekazując jej tablicę z liczbami
+* Uruchom funkcję `render` w funkcji `main` przekazując jej tablicę z liczbami
 * Stwórz funkcję `getRandomNumber`, która będzie zwracać losową liczbę
 * Stwórz funkcję `template`, która będzie zwracać strukturę HTML dla
     pojedynczej liczby - będzie to funkcja zdefiniowana wewnątrz funkcji `render`
@@ -37,9 +34,10 @@ Zadanie polega na tym, aby:
 
 ## Zadanie dodatkowe
 
-* Wybieranie kolejnych liczb powinno być zaprezentowane w formie animacji
+1. Liczby powinny być unikalne
+2. Wybieranie kolejnych liczb powinno być zaprezentowane w formie animacji
     z użyciem <https://github.com/coderitual/bounty>
-* Dodaj w CSS cień wewnętrzny, aby uzyskać efekt przestrzeni
+3. Dodaj w CSS cień wewnętrzny, aby uzyskać efekt przestrzeni
 
 ## License
 
